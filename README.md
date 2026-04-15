@@ -21,5 +21,8 @@ The system analyzes patient vital signs using an LSTM model to predict cardiac a
 - Accuracy: 98.3%
 - ROC AUC: 0.999
 
+## Example Output
+![Result](Example%20Output.png)
+
 ## Goal
 To support early detection and improve patient safety using AI.
